@@ -14,6 +14,6 @@ alpha = 1e-3; beta = 1e-5;
 
 Label = UDBGL(X,c,m,alpha,beta);
 
-disp('Done').
+disp('Done.');
 scores = NMImax(Label,Y);
 disp(['NMI = ',num2str(scores)]);
