@@ -21,8 +21,11 @@ dataName = 'OutScene';
 load(['data_',dataName,'.mat'],'X','Y'); 
 n = numel(Y);
 c = numel(unique(Y)); % The number of clusters
+
+% Parameters
 m = c; %The number of anchors
-alpha = 1e-3; beta = 1e-5;
+alpha = 1e-3; 
+beta = 1e-5;
 
 Label = UDBGL(X,c,m,alpha,beta);
 
