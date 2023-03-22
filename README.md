@@ -1,4 +1,4 @@
-## UDBGL：Efficient Multi-view Clustering via Unified and Discrete Bipartite Graph Learning
+## UDBGL: Efficient Multi-view Clustering via Unified and Discrete Bipartite Graph Learning
 
 This is the source code for the UDBGL algorithm, which is proposed in the following paper:
 
