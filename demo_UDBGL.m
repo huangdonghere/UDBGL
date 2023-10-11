@@ -2,7 +2,7 @@
 %                                                                               %
 % This is a demo for the UDBGL algorithm, which is proposed in the paper below. %
 %                                                                               %
-% Si-Guo Fang, Dong Huang, Xiao-Sha Cai, Chang-Dong Wang, Chaobo He, Yong Tang. %                       %
+% Si-Guo Fang, Dong Huang, Xiao-Sha Cai, Chang-Dong Wang, Chaobo He, Yong Tang. %
 % Efficient Multi-view Clustering via Unified and Discrete Bipartite Graph      %
 % Learning, IEEE Transactions on Neural Networks and Learning Systems, 2023.    %
 %                                                                               %
